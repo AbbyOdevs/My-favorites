@@ -15,7 +15,7 @@ public class DB
     public string QueryScalar(string Query)  
     {
         string str;
-        string conString = "server=localhost;uid=Favorite;pwd=Abigail123;database=users";
+        string conString = "server=localhost;uid=Favorite;pwd=%%%%;database=users";
         MySqlConnection con = new MySqlConnection(conString);
         MySqlCommand cmd = new MySqlCommand(Query, con);
         con.Open();
