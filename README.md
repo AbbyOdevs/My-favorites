@@ -16,3 +16,5 @@ Data validation and user authentication
 User interface design and navigation
 
 Overall, MyFavorites serves as a simple yet functional database management system that highlights the practical use of programming and database integration in developing desktop applications.
+
+it was created by Abigail Odevilas and her group partner Kharel Miles Retiz
